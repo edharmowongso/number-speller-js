@@ -1,0 +1,15 @@
+{
+  "name": "number-speller",
+  "version": "0.1.0",
+  "description": "It's converting number into words. For now, it's available in two languages, Indonesian and English.",
+  "scripts": {},
+  "author": "antoniusdh",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.13.0"
+  }
+}
