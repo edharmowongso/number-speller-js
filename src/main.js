@@ -1,7 +1,6 @@
 'use strict'
 
-import SpellingNumber from '../lib/converter'
-
-export function main(number, locale = 'ID') {
+const { SpellingNumber } = require('../lib/converter')
+const Spelling = (number, locale = 'ID') => {
   return SpellingNumber(number, locale)
 }
